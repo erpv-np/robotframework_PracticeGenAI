@@ -70,6 +70,7 @@ pip install robotframework-seleniumlibrary
 4. Launch Visual Studio Code
 
 ### Step 5: Install RobotCode Extension
+<img width="740" height="147" alt="image" src="https://github.com/user-attachments/assets/fbbb0aee-a3d6-4369-801d-dbcdd7d0c10c" />
 
 1. In Visual Studio Code, click the **Extensions** icon on the left sidebar (or press `Ctrl + Shift + X`)
 2. In the search bar, type: **RobotCode**
