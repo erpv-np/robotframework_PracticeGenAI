@@ -138,7 +138,9 @@ My First Test
 ### Running from VS Code
 
 1. Right-click anywhere in the `first_test.robot` file
-2. Select **Robot Framework: Run Test**
+2. Select **Run Test im Current File**
+<img width="431" height="160" alt="image" src="https://github.com/user-attachments/assets/8fb75979-7195-401b-a470-f55351125276" />
+
 3. Watch the output in the Terminal at the bottom
 
 **Alternative Method:**
