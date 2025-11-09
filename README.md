@@ -158,6 +158,7 @@ After the test runs, you'll see:
   - `log.html` - Detailed execution log
   - `report.html` - Summary report
   - `output.xml` - Raw data file
+<img width="638" height="151" alt="image" src="https://github.com/user-attachments/assets/aa959893-e17e-46d4-b178-1403dc8a1d73" />
 
 **To view the report:**
 1. Right-click on `report.html` in VS Code
